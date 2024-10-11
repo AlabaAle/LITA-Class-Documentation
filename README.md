@@ -9,7 +9,7 @@ This Data Analysis project aims to generate ibsightinto the sales performance of
 Thw primary source of data here is Data Sale.csv and thid is open source data that can be freely downloaded from an open source online su h as kaggle or FRED or any ither data repisitory site. 
 
 ### Tools Used
- -Microsoft Excel 
+ -Microsoft Excel [Download here](https://www.Microsoft.com)
    1. for data cleaning,
    2. Analysis and
    3. Visualization.
