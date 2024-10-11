@@ -13,5 +13,29 @@ Thw primary source of data here is Data Sale.csv and thid is open source data th
    1. for data cleaning,
    2. Analysis and
    3. Visualization.
- -SQL -Structured Query Language
+ 
+-SQL -Structured Query Language
 -GitHub for Portfolio Building.
+
+### Data Cleaning and Preparation
+In the initial phase of tge data cleanong and orepatationd, we perform the following actions;
+ 1. Data loading and inspection
+ 2. Handling missing variables
+ 3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+-what is the overall sales trebd 
+-which product are top sellers
+-What are the products on peak sale
+
+### Data Analysis 
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+'''SQL
+SELECT * FROM TABLE1
+WHERE CONDITION =TRUE
+'''
+
+
+
